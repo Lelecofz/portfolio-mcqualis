@@ -8,11 +8,11 @@
 
 ## About the Project
 
-Built a fully bilingual (PT/EN) institutional website for MCQualis, a regulated credit intermediary licensed by the Banco de Portugal. The site covers mortgage credit, personal credit, and financing for both Portuguese residents and foreign clients.
+Took ownership of an unstructured legacy codebase for MCQualis, a regulated credit intermediary licensed by the Banco de Portugal, and brought it to its current state. The site covers mortgage credit, personal credit, and financing for both Portuguese residents and foreign clients.
 
 ## My Role
 
-Sole developer — designed and built the entire front-end from scratch: architecture, bilingual system, two API integrations, credit simulator, accessibility panel, and responsive layout.
+Sole developer — inherited disorganised legacy code and restructured the entire front-end: established a coherent architecture, introduced the bilingual system, integrated two external APIs, built the credit simulator and accessibility panel, and standardised the responsive layout.
 
 ---
 
