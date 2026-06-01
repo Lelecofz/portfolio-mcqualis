@@ -12,7 +12,7 @@ Took ownership of an unstructured legacy codebase for MCQualis, a regulated cred
 
 ## My Role
 
-Sole developer — inherited disorganised legacy code and restructured the entire front-end: established a coherent architecture, introduced the bilingual system, integrated two external APIs, built the credit simulator and accessibility panel, and standardised the responsive layout.
+Curricular internship (FCT) — as the sole developer, inherited disorganised legacy code and restructured the entire front-end: established a coherent architecture, introduced the bilingual system, integrated two external APIs, built the credit simulator and accessibility panel, and standardised the responsive layout.
 
 ---
 
